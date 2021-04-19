@@ -3,7 +3,8 @@
 
 This application has a list of Pokemons and will show the details once clicked on it.
 
-<!-- ![](header.png) -->
+![Screenshot 1](https://github.com/sauravsomxz/Pokedex/blob/main/Screenshots/Screenshot_1618810104.png)
+![Screenshot 2](https://github.com/sauravsomxz/Pokedex/blob/main/Screenshots/Screenshot_1618810106.png)
 
 ## Installation
 Install Android Studio, Flutter and Dart. 
