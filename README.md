@@ -13,7 +13,8 @@ Install Android Studio, Flutter and Dart.
 Install Android Studio rest (the dependencies) will be taken care by Adroid Studio.
 
 ## Release History
-
+* 0.0.2
+   * Working on Adding Images and Making the UI
 * 0.0.1
     * Basic App with no images and styling
 
